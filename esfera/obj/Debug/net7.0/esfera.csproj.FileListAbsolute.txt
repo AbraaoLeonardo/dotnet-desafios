@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/bin/Debug/net7.0/esfera
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/bin/Debug/net7.0/esfera.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/bin/Debug/net7.0/esfera.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/bin/Debug/net7.0/esfera.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/bin/Debug/net7.0/esfera.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/refint/esfera.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/esfera.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/esfera/obj/Debug/net7.0/ref/esfera.dll

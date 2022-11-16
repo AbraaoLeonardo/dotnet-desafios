@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "multiplicacao-simples/1.0.0": {
+        "runtime": {
+          "multiplicacao-simples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "multiplicacao-simples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

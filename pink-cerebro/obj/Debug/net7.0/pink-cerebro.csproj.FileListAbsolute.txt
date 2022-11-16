@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/bin/Debug/net7.0/pink-cerebro
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/bin/Debug/net7.0/pink-cerebro.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/bin/Debug/net7.0/pink-cerebro.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/bin/Debug/net7.0/pink-cerebro.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/bin/Debug/net7.0/pink-cerebro.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/refint/pink-cerebro.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/pink-cerebro.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/pink-cerebro/obj/Debug/net7.0/ref/pink-cerebro.dll

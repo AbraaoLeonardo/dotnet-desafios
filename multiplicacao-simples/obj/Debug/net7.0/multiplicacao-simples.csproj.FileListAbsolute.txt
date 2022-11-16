@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/bin/Debug/net7.0/multiplicacao-simples
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/bin/Debug/net7.0/multiplicacao-simples.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/bin/Debug/net7.0/multiplicacao-simples.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/bin/Debug/net7.0/multiplicacao-simples.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/bin/Debug/net7.0/multiplicacao-simples.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/refint/multiplicacao-simples.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/multiplicacao-simples.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/multiplicacao-simples/obj/Debug/net7.0/ref/multiplicacao-simples.dll
