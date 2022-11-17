@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/bin/Debug/net7.0/tempo-de-dobby
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/bin/Debug/net7.0/tempo-de-dobby.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/bin/Debug/net7.0/tempo-de-dobby.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/bin/Debug/net7.0/tempo-de-dobby.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/bin/Debug/net7.0/tempo-de-dobby.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/refint/tempo-de-dobby.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/tempo-de-dobby.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/tempo-de-dobby/obj/Debug/net7.0/ref/tempo-de-dobby.dll

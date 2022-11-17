@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/bin/Debug/net7.0/idade-em-dias
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/bin/Debug/net7.0/idade-em-dias.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/bin/Debug/net7.0/idade-em-dias.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/bin/Debug/net7.0/idade-em-dias.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/bin/Debug/net7.0/idade-em-dias.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/refint/idade-em-dias.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/idade-em-dias.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/idade-em-dias/obj/Debug/net7.0/ref/idade-em-dias.dll
