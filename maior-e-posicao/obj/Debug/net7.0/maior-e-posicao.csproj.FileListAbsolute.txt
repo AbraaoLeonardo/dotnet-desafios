@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/bin/Debug/net7.0/maior-e-posicao
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/bin/Debug/net7.0/maior-e-posicao.deps.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/bin/Debug/net7.0/maior-e-posicao.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/bin/Debug/net7.0/maior-e-posicao.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/bin/Debug/net7.0/maior-e-posicao.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/refint/maior-e-posicao.dll
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.pdb
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/maior-e-posicao.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/desafios-de-codigos/maior-e-posicao/obj/Debug/net7.0/ref/maior-e-posicao.dll
